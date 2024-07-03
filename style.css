@@ -55,6 +55,10 @@ body{
     font-size: 15px;
     font-weight: 600;
 }
+.buttons:hover
+{
+    background-color:  hsl(75, 94%, 57%);
+}
 @media screen and (max-width: 375px){
     .card{
         width: 290px;
