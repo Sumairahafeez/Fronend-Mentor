@@ -39,8 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sumairahafeez/Fronend-Mentor)
-- Live Site URL: [Add live site URL here](https://sumairahafeez.github.io/Fronend-Mentor/)
+- Solution URL: (https://github.com/Sumairahafeez/Fronend-Mentor)
+- Live Site URL: (https://sumairahafeez.github.io/Fronend-Mentor/)
 
 ## My process
 
